@@ -55,11 +55,11 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+``` 
+NAME : MUKESH V
+REG NO: 212222230086
 ```
-NAME : SHARAN MJ
-REG NO: 212222240097
-```
-```
+``` C
 #include "main.h"
 #include"stdbool.h"
 bool pushbutton;
